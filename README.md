@@ -1,3 +1,5 @@
+NOTE: This theme will made to only work on [This page](https://wiimmfi.de/stats/mkw) as other pages may break with this CSS. I will eventually work on a single CSS that retextures everything without breaking anything
+
 # To use this theme
 
 - Click the `Stylus` icon
