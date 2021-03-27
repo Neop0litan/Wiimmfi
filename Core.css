@@ -1,0 +1,145 @@
+body {
+    background-color: #101010;
+    color: #fff;
+}
+
+small, div.logo {
+    display: none;
+}
+
+h1.narrow {
+    color: #fff;
+    margin-bottom: 30px;
+    margin-top: 0px;
+}
+
+a {
+    color: #ffc0d1;
+}
+
+span.tr3 {
+    background-color: #ff7300;
+    color: #202020;
+}
+
+.suspend {
+    color: #fff;
+}
+
+.table00, .table01, .table10, .table11 {
+    border-style: solid;
+    border-width: 3px;
+    border-color: #fff;
+    border-spacing: 3px;
+    background-color: #101010;
+}
+
+.table11 tr, .table00 .tr0, .table01 .tr0, .table10 .tr0, .table11 .tr0, span.tr0 {
+    background-color: #505050;
+}
+
+table.tr1-1p0 tr:hover, table.tr1-1p1 tr:hover, table.tr1-2p0 tr:hover, table.tr1-2p0 tr:hover, table.tr1-2p1 tr:hover, table.tr1-2p1 tr:hover, table.tr1-2p2 tr:hover, table.tr1-2p2 tr:hover, table.tr1-2p3 tr:hover, table.tr1-2p3 tr:hover, table.tr1-3p0 tr:hover, table.tr1-3p0 tr:hover, table.tr1-3p0 tr:hover, table.tr1-3p1 tr:hover, table.tr1-3p1 tr:hover, table.tr1-3p1 tr:hover, table.tr1-3p2 tr:hover, table.tr1-3p2 tr:hover, table.tr1-3p2 tr:hover, table.tr1-3p3 tr:hover, table.tr1-3p3 tr:hover, table.tr1-3p3 tr:hover, table.tr1-3p4 tr:hover, table.tr1-3p4 tr:hover, table.tr1-3p4 tr:hover, table.tr1-3p5 tr:hover, table.tr1-3p5 tr:hover, table.tr1-3p5 tr:hover, .table00 tr:hover, .table01 tr:hover, .table10 tr:hover, .table11 tr:hover {
+    background-color: #ff7300;
+}
+
+table.tr1-1p0 tr:nth-child(2n), table.tr1-1p1 tr:nth-child(2n+1), table.tr1-2p0 tr:nth-child(4n), table.tr1-2p0 tr:nth-child(4n+1), table.tr1-2p1 tr:nth-child(4n+1), table.tr1-2p1 tr:nth-child(4n+2), table.tr1-2p2 tr:nth-child(4n+2), table.tr1-2p2 tr:nth-child(4n+3), table.tr1-2p3 tr:nth-child(4n+3), table.tr1-2p3 tr:nth-child(4n+4), table.tr1-3p0 tr:nth-child(6n), table.tr1-3p0 tr:nth-child(6n+1), table.tr1-3p0 tr:nth-child(6n+2), table.tr1-3p1 tr:nth-child(6n+1), table.tr1-3p1 tr:nth-child(6n+2), table.tr1-3p1 tr:nth-child(6n+3), table.tr1-3p2 tr:nth-child(6n+2), table.tr1-3p2 tr:nth-child(6n+3), table.tr1-3p2 tr:nth-child(6n+4), table.tr1-3p3 tr:nth-child(6n+3), table.tr1-3p3 tr:nth-child(6n+4), table.tr1-3p3 tr:nth-child(6n+5), table.tr1-3p4 tr:nth-child(6n+4), table.tr1-3p4 tr:nth-child(6n+5), table.tr1-3p4 tr:nth-child(6n+6), table.tr1-3p5 tr:nth-child(6n+5), table.tr1-3p5 tr:nth-child(6n+6), table.tr1-3p5 tr:nth-child(6n+7), .table00 .tr1, .table01 .tr1, .table10 .tr1, .table11 .tr1, span.tr1 {
+    background-color: #707070;
+}
+
+table.conntab td.c-frame, table.conntab td.c-self, table.conntab td.c-client, table.conntab td.c-nsuc, table.conntab td.c-nack, table.conntab td.c-ncon, table.conntab td.c-loc, table.conntab td.c-con, table.conntab td.c-stat, table.conntab td.c-warn {
+    background-color: #101010;
+}
+
+.table00, .table10 {
+    border-collapse: separate;
+}
+
+.table00 .tc, .table01 .tc, .table10 .tc, .table11 .tc {
+    background-color: #202020;
+    color: #fff;
+}
+
+.table00 .tc a, .table01 .tc a, .table10 .tc a, .table11 .tc a {
+    color: #ffc0d1;
+}
+
+.table00 th, .table01 th, .table10 th, .table11 th {
+    background-color: #303030;
+}
+
+div.nb-frame, span.nb-frame {
+    border: 1px solid #101010;
+    background-color: #101010;
+}
+
+nav.nb-fixed, div.nb-fixed {
+    position: absolute;
+    border-style: none;
+}
+
+div.nb-menu-info, span.nb-menu-info, span.nb-menu-login, span.nb-menu-user, a.nb-menu-link, button.nb-button {
+    background-color: #101010;
+    color: #ffc0d1;
+}
+
+span.nb-menu-user, span.nb-menu-user a {
+    color: #ff88ff;
+}
+
+div.nb-submenu {
+    background-color: #202020;
+    border: 5px solid #202020;
+    min-width: 160px;
+    z-index: 0;
+    border-top-style: solid;
+}
+
+div.nb-submenu a {
+    color: #ffc0d1;
+}
+
+div.nb-frame, span.nb-frame {
+    background-color: #101010;
+}
+
+div.nb-menu-info, span.nb-menu-login, a.nb-menu-link {
+    background-color: #101010;
+    color: #ffc0d1;
+}
+
+div.text, div.text-wide, div.text-100, div.text-help, div.text-success, div.text-warn, div.text-error, div.text-help-100, div.text-success-100, div.text-warn-100, div.text-error-100, h2, h1, h3, h4, dt.changelog {
+    background-color: #101010;
+}
+
+.table00 .tr3, .table01 .tr3, .table10 .tr3, .table11 .tr3, span.tr3 {
+    background-color: #ff7300;
+}
+
+b {
+    font-style: italic;
+}
+
+div.nb-submenu a.active {
+    color: #fff;
+    text-decoration: underline;
+}
+
+div.nb-submenu {
+    background-color: #101010;
+    border: 1px solid #101010;
+}
+
+.warn {
+    display: block;
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    font-size: 36px;
+    background-color: #000;
+    color: #fff;
+    border: solid #fff 5px;
+}
+
+p:not(th > p) {
+    display: none;
+}
