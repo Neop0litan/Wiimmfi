@@ -13,7 +13,7 @@ NOTE 2: [Join my discord server](https://discord.gg/axEsMhZwyZ) for help with an
 
 ```
 @-moz-document url-prefix("https://wiimmfi.de/stats/mkw") {
-@import url("https://css.advexed.co.uk/Stylus/Wiimmfi.de/stats/mkw/Core.css");
+@import url("https://raw.githubusercontent.com/Neop0litan/Wiimmfi/main/Core.css");
 }
 ```
 
