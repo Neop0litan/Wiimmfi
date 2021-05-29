@@ -143,3 +143,12 @@ div.nb-submenu {
 p:not(th > p) {
     display: none;
 }
+
+a.button.orange {
+    border-radius: 0px;
+    background-image: none;
+    background-color: #000;
+    display: inline-block;
+    width: 50px;
+    text-align: center;
+}
