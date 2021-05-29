@@ -1,6 +1,8 @@
-NOTE: This theme will made to only work on [this page](https://wiimmfi.de/stats/mkw) as other pages may break with this CSS. I will eventually work on a single CSS that retextures everything without breaking anything.
+NOTE: This theme will made to only work on [this page](https://wiimmfi.de/stats/mkw) as other pages may break with this CSS. I will eventually work on a single CSS document that retextures everything without breaking anything.
 
 NOTE 2: [Join my discord server](https://discord.gg/axEsMhZwyZ) for help with anything that isnt working or any fixes that have been missed.
+
+Note 3: This theme is a dark mode theme.
 
 # To use this theme
 
